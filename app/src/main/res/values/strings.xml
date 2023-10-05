@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Music Player Kotlin</string>
+    <string name="txt_name">Muỗn quên một người thì hãy yêu một người</string>
+    <string name="txt_singer">Ca sĩ: Phạm Trưởng</string>
+    <string name="txt_index">#1</string>
+    <string name="txt_album">Khánh Trung</string>
+    <string name="txt_time">00:00/05:03</string>
+    <string name="permission_denied_audio_toast">Audio permission denied</string>
+</resources>
